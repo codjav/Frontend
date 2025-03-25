@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.fonty{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+@theme {
+    --color-midnight: #0B2B0D;
+    --color-bid: #7C4F4F;
+  }
